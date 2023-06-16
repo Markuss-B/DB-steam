@@ -1,0 +1,27 @@
+generate_LietotājsSpēle.py
+select * from LietotajsSpēle
+save to LietotajsSpēle_all.csv
+
+select LietotājsID, SpēleID, IegūšanasDatums from LietotājsSpēle
+save to user_game_date.csv
+generate_user_categories.py
+generate_LietotājaKategorijaSpēle.py
+
+generate_VēlmjuSaraksts.py
+
+generate_LietotājsSasniegums.py
+
+generate_Persona.py
+
+select id, NorekinuAdresesID from Persona
+save to user_NorekinuAdreseID.csv
+generate_pirkums.py
+
+generate_Recenzijas.py
+
+generate_serveris.py
+select id, SpēleID from Serveris
+save to serveris_spele.csv
+select * from Draudzējas
+save to friendships.csv
+
