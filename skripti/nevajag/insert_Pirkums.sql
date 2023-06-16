@@ -1,1 +1,0 @@
-select LietotājsID, SpēleID, IegūšanasDatums from LietotājsSpēle
