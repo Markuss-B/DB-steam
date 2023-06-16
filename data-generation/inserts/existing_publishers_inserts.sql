@@ -1,0 +1,33 @@
+INSERT INTO Izplatītājs VALUES
+    ('Electronic Arts', '1982-05-27', 'Amerikāņu videospēļu izdevējs un distribūtors, kas ir pazīstams ar spēlēm, piemēram, FIFA, Need for Speed, Mass Effect un Battlefield.'),
+    ('Ubisoft', '1986-03-12', 'Francijas videospēļu izdevējs un distribūtors, kas izstrādā un izplatā spēles, piemēram, Assassin''s Creed, Far Cry, Just Dance un Tom Clancy''s sērijas.'),
+    ('Activision', '1979-10-01', 'Amerikāņu videospēļu izdevējs un distribūtors, pazīstams ar spēlēm, piemēram, Call of Duty, Skylanders, Destiny un Tony Hawk''s Pro Skater.'),
+    ('Valve Corporation', '1996-08-24', 'Amerikāņu videospēļu izdevējs un distribūtors, kas pazīstams ar spēlēm, piemēram, Half-Life, Counter-Strike, Portal un Dota 2.'),
+    ('Square Enix', '2003-04-01', 'Japāņu videospēļu izdevējs un distribūtors, kas pazīstams ar spēlēm, piemēram, Final Fantasy, Dragon Quest un Kingdom Hearts.'),
+    ('2K Games', '2005-01-25', 'Amerikāņu videospēļu izdevējs un distribūtors, kas izstrādā un izplatā spēles, piemēram, BioShock, Borderlands, NBA 2K un Civilization.'),
+    ('Bethesda Softworks', '1986-06-28', 'Amerikāņu videospēļu izdevējs un distribūtors, kas pazīstams ar spēlēm, piemēram, The Elder Scrolls, Fallout un Wolfenstein.'),
+    ('Capcom', '1983-05-30', 'Japāņu videospēļu izdevējs un distribūtors, kas pazīstams ar spēlēm, piemēram, Resident Evil, Street Fighter, Mega Man un Monster Hunter.'),
+    ('Blizzard Entertainment', '1991-02-08', 'Amerikāņu videospēļu izdevējs un distribūtors, kas pazīstams ar spēlēm, piemēram, Warcraft, Diablo, StarCraft un Overwatch.'),
+    ('Bandai Namco', '2006-03-31', 'Japāņu videospēļu izdevējs un distribūtors, kas pazīstams ar spēlēm, piemēram, Tekken, Pac-Man, Dark Souls un Dragon Ball Z.');
+
+INSERT INTO Izplatītājs (Nosaukums, DibināšanasDatums) VALUES
+    ('Nintendo', '1889-09-23'),
+    ('Sony Interactive Entertainment', '1993-11-16'),
+    ('Microsoft Studios', '2002-09-30'),
+    ('Activision Blizzard', '2008-07-09'),
+    ('Take-Two Interactive', '1993-09-30'),
+    ('Sega', '1960-06-03'),
+    ('Konami', '1969-03-21'),
+    ('Warner Bros. Interactive Entertainment', '2004-01-13'),
+    ('505 Games', '2006-04-14'),
+    ('Paradox Interactive', '1999-11-04'),
+    ('THQ Nordic', '2008-08-13'),
+    ('Devolver Digital', '2009-06-05'),
+    ('Annapurna Interactive', '2016-08-17'),
+    ('Team17', '1990-12-07'),
+    ('Deep Silver', '2002-05-01'),
+    ('Atlus', '1986-04-07'),
+    ('Focus Home Interactive', '1996-06-03'),
+    ('Koei Tecmo', '2009-04-01'),
+    ('XSEED Games', '2004-11-15'),
+    ('Private Division', '2017-12-14');
