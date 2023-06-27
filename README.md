@@ -1,2 +1,3 @@
 # DB-steam
-Videospēļu platformas datubāze
+Lielais praktiskais darbs kursā Datu bāzes un informācijas sistēmu pamati.
+Videospēļu platformas datubāze.
